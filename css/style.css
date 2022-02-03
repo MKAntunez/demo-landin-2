@@ -1,0 +1,44 @@
+header{
+
+}
+
+
+.navbar>.container,
+.navbar>.container-fluid,
+.navbar>.container-lg,
+.navbar>.container-md,
+.navbar>.container-sm,
+.navbar>.container-xl,
+.navbar>.container-xxl {
+
+    flex-direction: column;
+
+}
+.bg-light1{
+    background-color: darkgoldenrod !important;
+}
+
+.sec-1 {
+    height: 1000px;
+    background: rgb(121, 120, 94);
+ 
+    margin-top: 120px;
+}
+
+.nav-link{
+    color: rgb(0, 0, 0) !important;
+}
+
+.logo {
+   fill: rgb(214, 179, 24);
+   width: 60px;
+   height: 60px;
+   
+}
+.logo1{
+    fill: rgb(253, 253, 253);
+}
+
+.texto{
+    color: #fff;
+}
